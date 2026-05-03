@@ -56,7 +56,7 @@ def updater_parser(
         "--repository",
         help=(
             "Location of OpRedFlag asset GitHub repository, in User/Repo format."
-            ' Default: "NikolaiVChr/OpRedFlag"'
+            ' Default: "Op-RedFlag/OpRedFlag"'
         ),
         required=False,
         default="Op-Redflag/OpRedFlag",
