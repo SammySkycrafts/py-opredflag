@@ -59,7 +59,7 @@ def updater_parser(
             ' Default: "NikolaiVChr/OpRedFlag"'
         ),
         required=False,
-        default="NikolaiVChr/OpRedFlag",
+        default="Op-Redflag/OpRedFlag",
     )
     parser.add_argument(
         "-b",
